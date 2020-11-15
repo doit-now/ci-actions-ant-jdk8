@@ -16,7 +16,7 @@ public class MathUtilTest {
         assertEquals(1, getFactorial(0));
         assertEquals(1, getFactorial(1));
         assertEquals(2, getFactorial(2));
-        assertEquals(1220, getFactorial(5));
+        assertEquals(120, getFactorial(5));
     }
     
     @Test(expected = IllegalArgumentException.class)
