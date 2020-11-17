@@ -8,7 +8,7 @@
 * GitHub Actions workflow file: ant-jdk8-junit.yml
 * .gitignore file for NetBeans project
 * README.md - this file itself
-* Badge icon - this file itself
+* Badge icon - this file itself with the image on the top
 * Notifications for workflow - https://github.com/settings/notifications
 * ... (TBA) 
 
