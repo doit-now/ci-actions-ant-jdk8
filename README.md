@@ -7,7 +7,7 @@
 * JUnit Test configuration to work with the project building process
 * GitHub Actions workflow file: ant-jdk8-junit.yml
 * .gitignore file for NetBeans project
-* README.md - this file itself
+* README.md - this file itself - using Markdown language
 * Badge icon - this file itself
 * Notifications for workflow - https://github.com/settings/notifications
 * ... (TBA) 
