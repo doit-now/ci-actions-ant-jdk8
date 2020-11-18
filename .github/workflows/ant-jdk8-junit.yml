@@ -1,4 +1,4 @@
-name: Practice CI with GitHub Actions using Ant and JUnit | © 2020 by giao.lang
+name: Practice CI with GitHub Actions using Ant and JUnit | © 2020 by KhaNHSE
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the main branch
